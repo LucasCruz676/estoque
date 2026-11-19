@@ -1,0 +1,32 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.indicador {
+    border-left: 5px solid #0d6efd;
+}
+
+.indicador h2 {
+    color: #0d6efd;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.table th {
+    background-color: #f1f3f5;
+}
+
+.btn {
+    border-radius: 5px;
+}

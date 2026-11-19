@@ -1,0 +1,19 @@
+# Banco de dados
+data/
+*.mv.db
+*.trace.db
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Dados e segredos
+.env
+*.secret
+application-local.properties
+
+# Logs
+*.log
